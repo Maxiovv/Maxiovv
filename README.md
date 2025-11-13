@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Marcel!
 
+<kbd>📧 dorsz2008@gmail.com</kbd>
+
 I'm a 17-year-old student passionate about programming, electronics, and learning new technologies.  
 I enjoy building small but meaningful projects that help me understand how things work — from web development to Arduino experiments.
 
